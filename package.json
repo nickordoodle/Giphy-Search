@@ -1,0 +1,29 @@
+{
+  "name": "giphy-search",
+  "version": "1.0.0",
+  "description": "a simple website to search for and retrieve GIFs using giphy API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nscherer30/Giphy-Search.git"
+  },
+  "keywords": [
+    "GIF",
+    "gif",
+    "search",
+    "website"
+  ],
+  "author": "Nick Scherer <nscherer30@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nscherer30/Giphy-Search/issues"
+  },
+  "homepage": "https://github.com/nscherer30/Giphy-Search#readme",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "dotenv": "^8.2.0"
+  }
+}
